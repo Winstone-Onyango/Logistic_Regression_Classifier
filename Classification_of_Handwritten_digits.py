@@ -1,5 +1,5 @@
 # Import necessary libraries
-import tensorflow as tf
+import tensorflow as tf 
 from tensorflow.keras import layers, models
 
 #Load the MNIST dataset
